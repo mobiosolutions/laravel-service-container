@@ -8,7 +8,7 @@ Here, we have created custom laravel service container.
 
 ### Installation
 
-    $  git clone https://github.com/helipatel19/laravel-service-container.git
+    $ git clone https://github.com/helipatel19/laravel-service-container.git
 
     $ cp .env.example .env
     
