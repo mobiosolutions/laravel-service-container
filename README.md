@@ -17,3 +17,7 @@ You need to update username and password into `.env` file.
     $ composer install
     
     $ php artisan migrate
+
+You can check the output by running the laravel Feature Test using following command..!
+    
+    ./vendor/bin/phpunit
